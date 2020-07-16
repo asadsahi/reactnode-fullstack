@@ -79,7 +79,7 @@
     "jest-pnp-resolver": "1.2.1",
     "jest-resolve": "24.9.0",
     "jwks-rsa": "1.6.0",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "mini-css-extract-plugin": "0.8.2",
     "moment": "2.24.0",
     "morgan": "1.9.1",
