@@ -84,7 +84,7 @@
     "moment": "2.24.0",
     "morgan": "1.9.1",
     "multer": "1.4.2",
-    "node-sass": "4.13.0",
+    "node-sass": "4.14.1",
     "nodemailer": "6.4.2",
     "oidc-client": "1.10.0",
     "optimize-css-assets-webpack-plugin": "5.0.3",
